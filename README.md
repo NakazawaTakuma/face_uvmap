@@ -2,12 +2,23 @@
 
 A Python project for generating UV maps from facial images using [MediaPipe](https://github.com/google/mediapipe) and facial landmarks.
 
-<p align="center">
-  <img src="./assets/input.png" alt="Input" width="200" />
-  <strong style="font-size: 48px; margin: 0 20px;">→</strong>
-  <img src="./assets/output_mesh.png" alt="Output1" width="200" />
-  <img src="./assets/output_uv.png" alt="Output2" width="200" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="./assets/input.png" alt="Input" width="200" />
+    </td>
+    <td align="center" valign="middle" style="font-size:64px; padding: 0 20px;">
+      ➡️
+    </td>
+    <td>
+      <img src="./assets/output_mesh.png" alt="Output1" width="200" />
+    </td>
+    <td>
+      <img src="./assets/output_uv.png" alt="Output2" width="200" />
+    </td>
+  </tr>
+</table>
+
 
 ## Features
 
